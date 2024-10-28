@@ -1,0 +1,10 @@
+verde,verde,rojo
+violeta,rojo,violeta
+verde,rojo,verde
+amarillo,violeta,amarillo
+azul,verde,rojo
+rosa,amarillo,rosa
+verde,azul,violeta
+rojo,amarillo,verde
+rojo,violeta,verde
+rosa,amarillo,azul
