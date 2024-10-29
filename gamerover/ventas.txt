@@ -47,3 +47,4 @@ Revista Literatura,Comprador 46
 Revista Literatura,Comprador 47
 Revista Salud,Comprador 48
 Revista Salud,Comprador 49
+Revista Salud,Comprador 50

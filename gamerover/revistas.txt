@@ -47,3 +47,4 @@ Revista Literatura,Pagina 90,Georgia13pxCeleste
 Revista Literatura,Pagina 100,Georgia16pxMorado
 Revista Salud,Pagina 77,SansSerif15pxAqua
 Revista Salud,Pagina 89,SansSerif11pxGranate
+Revista Salud,Pagina 150,SansSerif11pxGranate
